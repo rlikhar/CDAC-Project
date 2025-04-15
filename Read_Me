@@ -1,3 +1,6 @@
-# Data for the project can be downloaded from Kaggle
+# This Folder contains Jupyter notebook files of all the projects done during CDAC course
+1. Random Forest Regressor
 
-# site : https://www.kaggle.com/competitions/ventilator-pressure-prediction
+2. Ventilator Pressure Prediction to estimate the airway pressure in Respiratory Circuit.
+  # Data for the project can be downloaded from Kaggle
+  # site : https://www.kaggle.com/competitions/ventilator-pressure-prediction
